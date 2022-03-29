@@ -1,1 +1,1 @@
-echo message > up_to_date
+echo "line 1" > up_to_date
